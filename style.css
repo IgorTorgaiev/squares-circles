@@ -1,0 +1,112 @@
+* {
+    background-color: lightslategray;
+}
+
+.box {
+    box-sizing: border-box;
+    width: 610px;
+    height: 610px;
+    border: 1px solid white; 
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: inline-block;
+}
+
+.circle {
+    border-radius: 50%;
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    top: 25%;
+    left: 25%;
+}
+
+/* Background Colors Of Squares */
+/* The background colors of the first 3 squares */
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+/* The background colors of the next 3 squares */
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: orange;
+}
+
+/* The background colors of the last 3 squares */
+
+.violet {
+    background-color: violet;
+}
+
+.grey {
+    background-color: rgba(124, 115, 115, 0.516);
+}
+
+.lightgrey {
+    background-color: lightgrey;
+}
+
+/* ------------------------------------------------ */
+/* Background Colors Of Circles */
+/* The background colors of the first 3 circles */
+
+.pink {
+    background-color: pink;
+}
+
+.grey {
+    background-color: rgba(56, 52, 52, 0.496);
+}
+
+.violet {
+    background-color: rgb(90, 5, 90);
+}
+
+/* The background colors of the next 3 circles */
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+/* The background colors of the last 3 circles */
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
